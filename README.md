@@ -2,4 +2,6 @@
 
 ## Overview
 
-The Contest Tracker project is a web application designed to keep of track the progress of various contests.
+The Contest Tracker project is a web application designed to keep track of the progress of various contests.
+
+LINK- https://contest-tracker-rosy.vercel.app/
